@@ -13,7 +13,7 @@ If you have any questions, comments, concerns, or to report anything that makes 
 
 Everyone - including attendees, sponsors, speakers, and organizers - is required to agree to and follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated.
 
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant. This inculdes in our community online, at all related events, and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant. This includes in our community online, at all related events, and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 SeattleJS is dedicated to providing a harassment-free meetup for all attendees, regardless of gender identity, sex, race, ethnicity, sexual orientation, religion, age, disability, physical appearance, or body size. Harassment includes: prejudicial verbal or written comments, sexual imagery in public spaces or inappropriate use of nudity (including in presentation slides), deliberate intimidation, stalking or following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
